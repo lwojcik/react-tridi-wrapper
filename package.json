@@ -1,5 +1,5 @@
 {
-  "name": "react-tridi",
+  "name": "react-tridi-wrapper",
   "version": "0.0.1",
   "description": "360-degree image viewer as a React component",
   "main": "dist/index.js",
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lukemnet/react-tridi.git"
+    "url": "git+https://github.com/lukemnet/react-tridi-wrapper.git"
   },
   "keywords": [
     "react",
@@ -30,9 +30,9 @@
   "author": "Łukasz Wójcik",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lukemnet/react-tridi/issues"
+    "url": "https://github.com/lukemnet/react-tridi-wrapper/issues"
   },
-  "homepage": "https://github.com/lukemnet/react-tridi#readme",
+  "homepage": "https://github.com/lukemnet/react-tridi-wrapper#readme",
   "dependencies": {
     "react": "^17.0.1",
     "tridi": "^2.0.2"
