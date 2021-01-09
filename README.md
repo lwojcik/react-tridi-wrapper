@@ -1,7 +1,7 @@
 # react-tridi
 
 [![npm (latest)](https://img.shields.io/npm/v/react-tridi/latest.svg)](https://www.npmjs.com/package/react-twitch-ext-onauthorized)
-[![Travis Build Status](https://travis-ci.com/lukemnet/react-tridi.svg?branch=master)](https://travis-ci.com/lukemnet/react-twitch-ext-onauthorized)
+[![Build status](https://ci.appveyor.com/api/projects/status/mc374b3atvv6026q/branch/master?svg=true)](https://ci.appveyor.com/project/lwojcik/react-tridi/branch/master)
 
 React component wrapper for embedding 360-degree 3D image viewers with [Tridi](https://tridi.lukem.net/).
 
