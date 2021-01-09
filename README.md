@@ -1,12 +1,12 @@
 # react-tridi-wrapper
 
-[![npm (latest)](https://img.shields.io/npm/v/react-tridi-wrapper/latest.svg)](https://www.npmjs.com/package/react-tridi)
+[![npm (latest)](https://img.shields.io/npm/v/react-tridi-wrapper/latest.svg)](https://www.npmjs.com/package/react-tridi-wrapper)
 [![Build status](https://ci.appveyor.com/api/projects/status/mc374b3atvv6026q/branch/master?svg=true)](https://ci.appveyor.com/project/lwojcik/react-tridi-wrapper/branch/master)
 [![codecov](https://codecov.io/gh/lukemnet/react-tridi-wrapper/branch/master/graph/badge.svg?token=D3DW3W2JZP)](https://codecov.io/gh/lukemnet/react-tridi-wrapper)
 
 React component for embedding 360-degree 3D image viewers with [Tridi](https://tridi.lukem.net/).
 
-Note that this is a thin wrapper for an original library and it may not offer all functionality. For a first-party React component check out [react-tridi by Tuan Pham](https://www.npmjs.com/package/react-tridi).
+Note that this is a thin wrapper for an original library and it may not offer all available functionality. For a fully fledged React component check out [react-tridi by Tuan Pham](https://www.npmjs.com/package/react-tridi).
 
 ## Install
 
