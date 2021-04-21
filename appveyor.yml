@@ -1,4 +1,4 @@
-	image: Ubuntu2004
+image: Ubuntu2004
 platform: x64
 stack: node lts/*
 
