@@ -2,7 +2,7 @@
 
 [![npm (latest)](https://img.shields.io/npm/v/react-tridi-wrapper/latest.svg)](https://www.npmjs.com/package/react-tridi-wrapper)
 [![Build status](https://ci.appveyor.com/api/projects/status/mc374b3atvv6026q/branch/master?svg=true)](https://ci.appveyor.com/project/lwojcik/react-tridi-wrapper/branch/master)
-[![codecov](https://codecov.io/gh/lukemnet/react-tridi-wrapper/branch/master/graph/badge.svg?token=D3DW3W2JZP)](https://codecov.io/gh/lukemnet/react-tridi-wrapper)
+[![codecov](https://codecov.io/gh/tridijs/react-tridi-wrapper/branch/master/graph/badge.svg?token=D3DW3W2JZP)](https://codecov.io/gh/tridijs/react-tridi-wrapper)
 
 React component for embedding 360-degree 3D image viewers with [Tridi](https://tridi.lukem.net/).
 
