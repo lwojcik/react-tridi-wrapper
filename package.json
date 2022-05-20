@@ -38,7 +38,7 @@
     "tridi": "^2.0.2"
   },
   "devDependencies": {
-    "@testing-library/react": "^12.1.2",
+    "@testing-library/react": "^13.1.1",
     "@types/jest": "^27.4.0",
     "@types/node": "^17.0.8",
     "@types/react": "^18.0.8",
